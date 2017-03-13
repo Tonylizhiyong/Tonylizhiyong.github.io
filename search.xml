@@ -6,29 +6,32 @@
     <entry>
       <title><![CDATA[我的第一篇文章]]></title>
       <url>http://jd.creativ-e.cn/2017/03/12/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
-      <content type="html"><![CDATA[<p><excerpt in="" index="" |="" 首页摘要=""><br><a id="more"></a></excerpt></p>
-<the rest="" of="" contents="" |="" 余下全文="">
-
-
-
+      <content type="html"><![CDATA[<p></p><h2 id="intro">前言</h2>本篇日志用于记录自己在学习建设个人博客站点中的首篇文章。<p></p>
+<p>　　测试使用。</p>
+<blockquote>
+<p>仅供测试使用；<br><a id="more"></a></p>
+</blockquote>
+<p><div class="github-widget" data-repo="MOxFIVE/hexo-theme-yelee"></div></p>
+<ul>
+<li>常识1</li>
+<li>常识2</li>
+<li>常识3</li>
+<li>常识4</li>
+</ul>
 <h2 id="我是谁"><a href="#我是谁" class="headerlink" title="我是谁"></a>我是谁</h2><p>Creativ-E 工作室</p>
 <h2 id="我是干啥的"><a href="#我是干啥的" class="headerlink" title="我是干啥的"></a>我是干啥的</h2><p>竭诚为您服务</p>
-</the>]]></content>
+]]></content>
       
         <categories>
             
-            <category> Blog </category>
+            <category> 我的文章 </category>
             
         </categories>
         
         
         <tags>
             
-            <tag> 关于我 </tag>
-            
             <tag> 介绍 </tag>
-            
-            <tag> 文章 </tag>
             
         </tags>
         
