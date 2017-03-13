@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Creativ-E 工作室</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://jd.creativ-e.cn/"/>
+  <updated>2017-03-12T14:19:07.098Z</updated>
+  <id>http://jd.creativ-e.cn/</id>
+  
+  <author>
+    <name>Creativ-E 工作室</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://jd.creativ-e.cn/2017/03/12/test/"/>
+    <id>http://jd.creativ-e.cn/2017/03/12/test/</id>
+    <published>2017-03-12T14:17:12.000Z</published>
+    <updated>2017-03-12T14:19:07.098Z</updated>
+    
+    <content type="html"><![CDATA[<p>categories: </p>
+<ul>
+<li>日记 </li>
+</ul>
+<p>tags: </p>
+<ul>
+<li><p>Hexo </p>
+</li>
+<li><p>node.js</p>
+</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;categories: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;日记 &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;tags: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Hexo &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;node.js&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
