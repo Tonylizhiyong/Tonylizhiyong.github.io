@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jd.creativ-e.cn/"/>
-  <updated>2017-03-13T14:22:33.197Z</updated>
+  <updated>2017-03-14T13:23:15.270Z</updated>
   <id>http://jd.creativ-e.cn/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>lizhiyong</title>
+    <link href="http://jd.creativ-e.cn/2017/03/14/lizhiyong/"/>
+    <id>http://jd.creativ-e.cn/2017/03/14/lizhiyong/</id>
+    <published>2017-03-14T13:23:15.000Z</published>
+    <updated>2017-03-14T13:23:15.270Z</updated>
+    
+    <content type="html"><![CDATA[<p></p><h2 id="intro">前言</h2> 记录<p></p>
+<blockquote>
+<p>说明<br><a id="more"></a></p>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;h2 id=&quot;intro&quot;&gt;前言&lt;/h2&gt; 记录&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;说明&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>我的第一篇文章</title>
