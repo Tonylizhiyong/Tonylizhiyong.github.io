@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jd.creativ-e.cn/"/>
-  <updated>2017-03-13T14:22:33.197Z</updated>
+  <updated>2017-05-01T04:54:17.402Z</updated>
   <id>http://jd.creativ-e.cn/</id>
   
   <author>
@@ -14,6 +14,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>微信公众号</title>
+    <link href="http://jd.creativ-e.cn/2017/05/01/Wechat-index/"/>
+    <id>http://jd.creativ-e.cn/2017/05/01/Wechat-index/</id>
+    <published>2017-05-01T04:21:20.000Z</published>
+    <updated>2017-05-01T04:54:17.402Z</updated>
+    
+    <content type="html"><![CDATA[<p></p><h2 id="intro">微信公众号</h2><br><a id="more"></a><p></p>
+<p align="center"><br>        <img src="http://127.0.0.1:4000/img/creativeqrcode.jpg"><br></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;h2 id=&quot;intro&quot;&gt;微信公众号&lt;/h2&gt;&lt;br&gt;
+    
+    </summary>
+    
+      <category term="公众号" scheme="http://jd.creativ-e.cn/categories/%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
+    
+    
+      <category term="公众号" scheme="http://jd.creativ-e.cn/tags/%E5%85%AC%E4%BC%97%E5%8F%B7/"/>
+    
+  </entry>
   
   <entry>
     <title>我的第一篇文章</title>
